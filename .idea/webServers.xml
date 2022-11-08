@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e85c2dfa-3b7a-45b1-a0da-6b9f99167c11" name="Spokoino" url="http://a325214.ftp.mchost.ru">
+        <fileTransfer rootFolder="/httpdocs" host="a325214.ftp.mchost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
